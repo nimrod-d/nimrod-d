@@ -14,4 +14,4 @@ I'm Nimrod, a self-taught data enthusiast driven by curiosity and determination.
 ## :globe_with_meridians: Contacts
 ---
 
- "gmail: email me at nimroddadush@gmail.com
+ :gmail: email me at nimroddadush@gmail.com
