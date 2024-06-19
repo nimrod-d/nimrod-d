@@ -10,3 +10,8 @@ I'm Nimrod, a self-taught data enthusiast driven by curiosity and determination.
 **Tools:** Tableau, VScode, pycharm, Jupyter Notebook, Google Colab, MS Office Suite
 
 **Techniques:** EDA, Statistical analysis, Data pipelines, Machine Learning, Documentation, Technical writing, Data visualization
+
+## Contacts
+---
+
+:globe_with_meridians: nimroddadush@gmail.com
