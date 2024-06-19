@@ -11,7 +11,8 @@ I'm Nimrod, a self-taught data enthusiast driven by curiosity and determination.
 
 **Techniques:** EDA, Statistical analysis, Data pipelines, Machine Learning, Documentation, Technical writing, Data visualization
 
-## :globe_with_meridians: Contacts
+## 🌐 Contacts
 ---
 
- :gmail: email me at nimroddadush@gmail.com
+ ✉️ email me at nimroddadush@gmail.com
+ 🔗 Contact via Linkedin [www.linkedin.com/nimrod](https://www.linkedin.com/in/nimrod-dadush-gutter-557224232/)
