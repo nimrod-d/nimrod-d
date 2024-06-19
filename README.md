@@ -15,4 +15,5 @@ I'm Nimrod, a self-taught data enthusiast driven by curiosity and determination.
 ---
 
  ✉️ email me at nimroddadush@gmail.com
+ 
  🔗 Contact via Linkedin [www.linkedin.com/nimrod](https://www.linkedin.com/in/nimrod-dadush-gutter-557224232/)
