@@ -5,23 +5,8 @@ I'm Nimrod, a self-taught data enthusiast driven by curiosity and determination.
 ## 🛠️ Skills
 ---
 
-**Languages:**
-- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy)
-- SQL (BigQuery, MySQL)
+**Languages:** Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy), SQL (MySQL)
 
-**Tools:**
-- Tableau
-- Git/GitHub
-- Jupyter Notebook
-- MS Office Suite (Excel, PowerPoint, Word)
+**Tools:** Tableau, VScode, pycharm, Jupyter Notebook, Google Colab, MS Office Suite
 
-**Techniques:**
-- Exploratory Data Analysis (EDA)
-- Statistical analysis
-- Data pipelines
-- Machine Learning (ML)
-- Fourier Analysis
-- Documentation
-- Quantitative Research
-- Technical writing
-- Data visualization
+**Techniques:** EDA, Statistical analysis, Data pipelines, Machine Learning, Documentation, Technical writing, Data visualization
