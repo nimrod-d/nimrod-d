@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there!
+
+I'm Nimrod, a self-taught data enthusiast driven by curiosity and determination. I love using tools like Tableau and Excel to uncover insights and tell stories with data. I've honed my skills in Python, SQL, and Machine Learning through courses like the Data Analysis program at Ironhack. I'm excited to leverage my experiences and skills to take on new challenges in the world of data. Let's connect and collaborate!
+
+
 
 <!--
 **nimrod-d/nimrod-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
