@@ -11,7 +11,7 @@ I'm Nimrod, a self-taught data enthusiast driven by curiosity and determination.
 
 **Techniques:** EDA, Statistical analysis, Data pipelines, Machine Learning, Documentation, Technical writing, Data visualization
 
-## Contacts
+## :globe_with_meridians: Contacts
 ---
 
-:globe_with_meridians: nimroddadush@gmail.com
+ "gmail: email me at nimroddadush@gmail.com
