@@ -28,6 +28,8 @@ A self-taught data enthusiast with 2 years experience in the Buseiness Analyst s
 
 [Eurovision voting patterns](https://github.com/nimrod-d/Eurovision) Explored Eurovision voting trends using Jupyter Notebook, Pandas and Tableau to uncover biases between countries, televotes and jury votes
 
+[AB Testing](https://github.com/nimrod-d/AB_testing/tree/main) A/B test analysis segmented by country to evaluate the effectiveness of a new landing page
+
 
 
 
