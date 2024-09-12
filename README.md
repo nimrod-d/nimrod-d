@@ -1,6 +1,6 @@
 # 👋 Hey, I am Nimrod!
 
-A self-taught data enthusiast with 2 years experience in the Buseiness Analyst seat, driven by curiosity and determination. I love using tools like Tableau and Excel to uncover insights and tell stories with data. I've honed my skills in Python, SQL, and Machine Learning through courses like the Data Analysis program at Ironhack. I'm excited to leverage my experiences and skills to take on new challenges in the world of data. Let's connect and collaborate!
+A self-taught data enthusiast with 2 years experience in the Data Analyst seat, driven by curiosity and determination. I love using tools like Tableau and Excel to uncover insights and tell stories with data. I've honed my skills in Python, SQL, and Machine Learning through courses like the Data Analysis program at Ironhack. I'm excited to leverage my experiences and skills to take on new challenges in the world of data. Let's connect and collaborate!
 
 ## 🛠️ Skills
 
